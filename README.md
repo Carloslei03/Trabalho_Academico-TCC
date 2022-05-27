@@ -28,3 +28,12 @@ Tela de Login simples
  ![CADASTRO DE FUNCIONARIO FINAL](https://user-images.githubusercontent.com/66281554/170760629-9d8f6791-875d-47ad-9b92-5c11d4bff233.png)
 
  ***
+
+
+ ***
+
+ Tela Cadastro de Produtos
+
+ ![Registro de produtos final](https://user-images.githubusercontent.com/66281554/170761998-11dffc5b-f1e2-47bc-aab4-92942ae9eff0.png)
+
+ ***
